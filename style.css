@@ -1,0 +1,23 @@
+#stoper{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-size: 100px;
+    
+}
+
+#akcje{
+    position: absolute;
+    bottom: 10%;
+    margin-left: 3px;
+    
+    
+      
+}
+
+
+li{
+    margin-left: 30px;
+}
